@@ -1,0 +1,11 @@
+.list__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.movie__list {
+    padding: 0 3rem 3rem 3rem;
+}
+.search-results h1{
+    margin:20px 20px;
+}
